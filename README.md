@@ -40,7 +40,7 @@ FFmpeg çıktısı GUI üzerinde detaylı gösterilmemektedir
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/55a9f960-adbb-4391-b01f-9dd810ac83d2" width="45%" />
-  <img src="https://github.com/user-attachments/assets/4408487f-3808-4532-9c72-0e23ba653033" width="35%" />
+  <img src="https://github.com/user-attachments/assets/4408487f-3808-4532-9c72-0e23ba653033" width="25%" />
 </p>
 
 
