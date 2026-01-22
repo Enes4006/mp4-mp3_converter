@@ -38,4 +38,7 @@ FFmpeg çıktısı GUI üzerinde detaylı gösterilmemektedir
 
 <img width="629" height="410" alt="Ekran görüntüsü 2026-01-22 172927" src="https://github.com/user-attachments/assets/55a9f960-adbb-4391-b01f-9dd810ac83d2" />
 
+<img width="448" height="558" alt="image" src="https://github.com/user-attachments/assets/4408487f-3808-4532-9c72-0e23ba653033" />
+
+
 
